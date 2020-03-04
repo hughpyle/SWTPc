@@ -30,7 +30,7 @@ B000 - BFFF    - unassigned (4k bytes)
 A080 - AFFF    - unassigned (3968 bytes)
 
 A04A - A07F    - available for scratch use
-A048 - A049    - location for 'G' (goto) jump from swtbug
+A048 - A049    - location for 'G' (goto) jump
 A047           - BYTECT - Temporary storage location for load/punch.
 A046           - TEMP   - Temporary storage location for punch and load.
 A044           - TW     - Temporary storage location for load/punch.
